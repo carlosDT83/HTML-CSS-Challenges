@@ -155,17 +155,16 @@ footer {
 }
 
 .cocrodile{
+  padding: 5%;
   background-color: #E8F07F;
 }
 
 .textc {
   text-align: center;
-  width: 1400px;
-  float: right;
 }
 
 .ic1 {
-  
+  float: right;
 }
 
 .news
